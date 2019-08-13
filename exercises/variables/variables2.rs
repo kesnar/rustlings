@@ -2,7 +2,7 @@
 // Make me compile! Scroll down for hints :)
 
 fn main() {
-    let x;
+    let x = 10i32;
     if x == 10 {
         println!("Ten!");
     } else {
